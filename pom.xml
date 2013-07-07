@@ -3,7 +3,7 @@
   <groupId>com.headius</groupId>
   <artifactId>coro-mock</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>coro-mock</name>
   <url>https://github.com/headius/coro-mock</url>
 
